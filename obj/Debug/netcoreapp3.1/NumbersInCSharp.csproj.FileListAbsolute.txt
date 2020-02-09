@@ -1,0 +1,11 @@
+V:\Estudos\estudos-c#\obj\Debug\netcoreapp3.1\NumbersInCSharp.csprojAssemblyReference.cache
+V:\Estudos\estudos-c#\obj\Debug\netcoreapp3.1\NumbersInCSharp.AssemblyInfoInputs.cache
+V:\Estudos\estudos-c#\obj\Debug\netcoreapp3.1\NumbersInCSharp.AssemblyInfo.cs
+V:\Estudos\estudos-c#\bin\Debug\netcoreapp3.1\NumbersInCSharp.exe
+V:\Estudos\estudos-c#\bin\Debug\netcoreapp3.1\NumbersInCSharp.deps.json
+V:\Estudos\estudos-c#\bin\Debug\netcoreapp3.1\NumbersInCSharp.runtimeconfig.json
+V:\Estudos\estudos-c#\bin\Debug\netcoreapp3.1\NumbersInCSharp.runtimeconfig.dev.json
+V:\Estudos\estudos-c#\bin\Debug\netcoreapp3.1\NumbersInCSharp.dll
+V:\Estudos\estudos-c#\bin\Debug\netcoreapp3.1\NumbersInCSharp.pdb
+V:\Estudos\estudos-c#\obj\Debug\netcoreapp3.1\NumbersInCSharp.dll
+V:\Estudos\estudos-c#\obj\Debug\netcoreapp3.1\NumbersInCSharp.pdb
